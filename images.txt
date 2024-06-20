@@ -1,9 +1,1 @@
 vault
-jenkins
-rust
-haproxy
-snowdreamtech/frpc
-snowdreamtech/frps
-zerotier/zerotier
-zerotier/zerotier-synology
-rustdesk/rustdesk-server
