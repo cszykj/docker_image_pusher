@@ -6,5 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 v2raya
-hub.docker.com
+hub.docker.com/r/mzz2017/v2raya
 mzz2017/v2raya:latest
