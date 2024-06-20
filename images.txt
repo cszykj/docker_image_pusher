@@ -26,6 +26,5 @@ linuxserver/plex
 jellyfin/jellyfin
 linuxserver/calibre-web
 linuxserver/calibre
-linuxserver/heimdall
 linuxserver/kodi-headless
 portainer/agent
