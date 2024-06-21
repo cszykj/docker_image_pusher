@@ -1,1 +1,4 @@
 registry.gitlab.cn/omnibus/gitlab-jh:latest
+tomcat
+linuxserver/calibre-web
+linuxserver/calibre
