@@ -1,5 +1,3 @@
-busybox
-redis
-openjdk
-nextcloud
-
+bitnami/jenkins
+docker/dockerfile
+ollama/ollama
