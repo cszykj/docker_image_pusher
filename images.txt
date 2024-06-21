@@ -1,1 +1,1 @@
-grafana/grafana
+jc21/nginx-proxy-manager
