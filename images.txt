@@ -1,4 +1,6 @@
-registry.gitlab.cn/omnibus/gitlab-jh:latest
-tomcat
-linuxserver/calibre-web
-linuxserver/calibre
+portrainer/agent
+busybox
+redis
+openjdk
+nextcloud
+
