@@ -1,4 +1,3 @@
-portrainer/agent
 busybox
 redis
 openjdk
