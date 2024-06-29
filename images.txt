@@ -1,3 +1,2 @@
-bitwardenrs/server
-vaultwarden/server
+jellyfin/jellyfin
 
