@@ -1,6 +1,2 @@
-ruby
-rust
-eclipse-mosquitto
-botnami/kafka
 logstash
 grafana/grafana
