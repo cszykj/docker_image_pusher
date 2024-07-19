@@ -2,4 +2,4 @@ mariadb:10.11
 memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest
 seafileltd/seafile-mc:11.0-latest
-seafileltd/seafile-mc:9.0.10
+seafileltd/seafile-mc:9.0.10-latest
