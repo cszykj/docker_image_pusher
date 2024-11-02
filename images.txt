@@ -1,4 +1,7 @@
-certbot/certbot
+uay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
+ontainer-registry.oracle.com/database/free:latest
+
+
 
 
 
