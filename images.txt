@@ -1,5 +1,6 @@
 oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 ontainer-registry.oracle.com/database/free:latest
+ghcr.io/kiwix/kiwix-tools:3.7.0
 
 
 
