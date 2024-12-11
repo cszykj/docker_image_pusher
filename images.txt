@@ -1,4 +1,4 @@
-ghcr.io/kiwix/kiwix-tools:3.7.0
+o2oa/o2server
 
 
 
