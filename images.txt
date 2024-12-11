@@ -1,4 +1,4 @@
-o2oa/o2server
+o2oa/onlyoffice
 
 
 
