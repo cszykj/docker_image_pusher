@@ -5,10 +5,5 @@ semitechnologies/weaviate
 langgenius/qdrant
 quay.io/oceanbase/oceanbase-ce
 container-registry.oracle.com/database/free
-quay.io/coreos/etcd
 nginx
-
-
-
-
-
+minio/minio:RELEASE.2023-03-20T20-16-18Z
