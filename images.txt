@@ -1,4 +1,13 @@
 langgenius/dify-api
+langgenius/dify-web
+langgenius/dify-sandbox
+semitechnologies/weaviate
+langgenius/qdrant
+hcr.io/chroma-core/chroma
+quay.io/oceanbase/oceanbase-ce
+container-registry.oracle.com/database/free
+quay.io/coreos/etcd
+
 
 
 
