@@ -1,6 +1,7 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-semitechnologies/weaviate:1.19.0
+langgenius/dify-plugin-daemon:0.0.1-local
+langgenius/dify-api
+langgenius/dify-web
+semitechnologies/weaviate
 langgenius/qdrant:v1.7.3
 quay.io/oceanbase/oceanbase-ce
 container-registry.oracle.com/database/free
