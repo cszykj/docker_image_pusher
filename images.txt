@@ -1,3 +1,4 @@
+ollama/ollama
 langgenius/dify-plugin-daemon:0.0.1-local
 langgenius/dify-api
 langgenius/dify-web:1.0.0
