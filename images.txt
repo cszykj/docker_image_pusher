@@ -31,7 +31,7 @@ redis:6-alpine
 #arm
 --plantform=linux/arm64 langgenius/dify-plugin-daemon:0.0.1-local
 --plantform=linux/arm64 langgenius/dify-api
---plantform=linux/arm64 langgenius/dify-web:1.0.0
+--plantform=linux/arm64 langgenius/dify-web
 --plantform=linux/arm64 postgres:15-alpine
 --plantform=linux/arm64 redis:6-alpine
 --plantform=linux/arm64 langgenius/dify-sandbox:0.2.10
