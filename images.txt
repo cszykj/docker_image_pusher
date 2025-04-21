@@ -1,3 +1,6 @@
+memcached:1.6.18
+mariadb:10.11
+seafileltd/seafile-mc:12.0-latest
 teddysun/v2ray
 docker.n8n.io/n8nio/n8n
 blakeberg/geth-node
