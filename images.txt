@@ -1,4 +1,4 @@
-docker.n8n.io/n8nio:1.120.1
+n8nio/n8n:1.120.1
 docker.io/gitlab/gitlab-ce:lastest
 memcached:1.6.18
 mariadb:10.11
