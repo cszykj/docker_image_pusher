@@ -1,5 +1,5 @@
-ghcr.io/toeverything/affine:${AFFINE_REVISION:-stable}
-n8nio/n8n:1.120.1
+xuanaimai/onecloud:21-09-15
+n8nio/n8n:nightly
 docker.io/gitlab/gitlab-ce:lastest
 memcached:1.6.18
 mariadb:10.11
