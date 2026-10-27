@@ -1,3 +1,4 @@
+xubiaolin/zerotier-planet:latest
 xuanaimai/onecloud:21-09-15
 n8nio/n8n:nightly
 docker.io/gitlab/gitlab-ce:lastest
